@@ -1,0 +1,4 @@
+# This file is used internally by FFMPEG.
+file 'file:/Users/benpfeffer/Library/Mobile Documents/com~apple~CloudDocs/Cloud_Code/Python/DeepLearning by Grunk/Exercice_and_Solutions/media/videos/1080p60/partial_movie_files/KMeansClusteringScene/3977891868_3453325545_223132457.mp4'
+file 'file:/Users/benpfeffer/Library/Mobile Documents/com~apple~CloudDocs/Cloud_Code/Python/DeepLearning by Grunk/Exercice_and_Solutions/media/videos/1080p60/partial_movie_files/KMeansClusteringScene/2852726489_1141282389_4096715267.mp4'
+file 'file:/Users/benpfeffer/Library/Mobile Documents/com~apple~CloudDocs/Cloud_Code/Python/DeepLearning by Grunk/Exercice_and_Solutions/media/videos/1080p60/partial_movie_files/KMeansClusteringScene/2852726489_2873984570_3010193225.mp4'
